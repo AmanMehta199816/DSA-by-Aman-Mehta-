@@ -1,4 +1,4 @@
-# DSA Array Repository
+# DSA Array By Aman Mehta 
 
 Welcome to the DSA Array Repository! This repository is dedicated to data structures and algorithms (DSA) related to arrays, specifically focusing on 2D and 3D arrays. Here, you'll find code examples, implementations, and algorithms to help you understand and practice array-related concepts effectively.
 
