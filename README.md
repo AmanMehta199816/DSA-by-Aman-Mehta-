@@ -1,5 +1,7 @@
 # Aman : DSA-C++
 Data Structure &amp; Algorithms related projects.
+![Screenshot_2024-03-28-06-14-09-41_680d03679600f7af0b4c700c6b270fe7](https://github.com/AmanMehta199816/DSA-by-Aman-Mehta-/assets/96304523/cc7d84aa-9aa2-44bf-90bb-c7cdd503ea10)
+
 # Data Structures and Algorithms (DSA) Resources Repository
 
 Welcome to the Data Structures and Algorithms (DSA) Resources repository! Whether you're a beginner looking to learn the fundamentals of DSA or an experienced programmer aiming to sharpen your problem-solving skills, this repository aims to provide you with a curated list of resources to excel in the field of DSA.
