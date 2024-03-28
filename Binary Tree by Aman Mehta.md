@@ -1,4 +1,5 @@
 # Binary Tree Data Structure By Aman Mehta 
+![GV5g9Exu09NQZOyzD9](https://github.com/AmanMehta199816/DSA-by-Aman-Mehta-/assets/96304523/89a6c04a-7a82-4fc2-8071-d8371421147f)
 
 Welcome to the Binary Tree Data Structure Repository! This repository contains implementations and algorithms related to binary trees. Whether you're learning about binary trees or looking for code examples to practice tree-related concepts, this repository aims to provide valuable resources for your journey in data structures and algorithms.
 
