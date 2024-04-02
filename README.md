@@ -16,7 +16,8 @@ Welcome to the Data Structures and Algorithms (DSA) Resources repository! Whethe
 6. [Courses and Tutorials](#courses-and-tutorials)
 7. [Books](#books)
 8. [Community and Forums](#community-and-forums)
-
+![Screenshot_2024-04-02-21-02-12-52_f9ee0578fe1cc94de7482bd41accb329](https://github.com/AmanMehta199816/DSA-by-Aman-Mehta-/assets/96304523/7023949c-8abe-4d1f-b6da-2fdd8e180c68)
+[Watch](https://youtu.be/t3uBgjUENxc?si=unHqRt_Vi1jqKGHs)
 ## Getting Started
 ![Screenshot_2024-04-02-21-00-35-17_f9ee0578fe1cc94de7482bd41accb329](https://github.com/AmanMehta199816/DSA-by-Aman-Mehta-/assets/96304523/6d39c72d-c510-468a-9d4d-65bf2cb8bb0d)
 ![Screenshot_2024-04-02-21-00-43-36_f9ee0578fe1cc94de7482bd41accb329](https://github.com/AmanMehta199816/DSA-by-Aman-Mehta-/assets/96304523/e8c04581-b9ca-4fb0-8f00-41c4c0580b8e)
