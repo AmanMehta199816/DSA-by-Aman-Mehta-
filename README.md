@@ -68,6 +68,7 @@ Explore in-depth knowledge with these recommended books:
 
 - **"Introduction to Algorithms" by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, and Clifford Stein**: A comprehensive textbook covering algorithms and data structures used in computer science, with detailed explanations and examples.
 - **"Cracking the Coding Interview" by Gayle Laakmann McDowell**: A practical guide to preparing for coding interviews, with tips, techniques, and practice problems covering a wide range of algorithmic topics.
+![CVtNe84hhYF9u](https://github.com/AmanMehta199816/DSA-by-Aman-Mehta-/assets/96304523/cb1e3c4b-5c5a-4bfc-b81d-b965e5bba957)
 
 ## Community and Forums
 
