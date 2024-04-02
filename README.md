@@ -18,6 +18,8 @@ Welcome to the Data Structures and Algorithms (DSA) Resources repository! Whethe
 8. [Community and Forums](#community-and-forums)
 
 ## Getting Started
+![Screenshot_2024-04-02-21-00-35-17_f9ee0578fe1cc94de7482bd41accb329](https://github.com/AmanMehta199816/DSA-by-Aman-Mehta-/assets/96304523/6d39c72d-c510-468a-9d4d-65bf2cb8bb0d)
+![Screenshot_2024-04-02-21-00-43-36_f9ee0578fe1cc94de7482bd41accb329](https://github.com/AmanMehta199816/DSA-by-Aman-Mehta-/assets/96304523/e8c04581-b9ca-4fb0-8f00-41c4c0580b8e)
 
 If you're new to DSA, start with these resources to understand the foundational concepts:
 
